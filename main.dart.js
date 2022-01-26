@@ -28169,8 +28169,17 @@ return A.bf(s,A.zL($.apf[this.a],B.f_),s,new A.dl(B.h,s,s,s,s,s,B.a6),s,new A.aS
 $S:118}
 A.fI.prototype={
 gai(a){return A.a(this.c,"name")},
-L(a,b){var s=this,r=null
-return A.np(A.b([A.c0(A.a(s.c,"name"),A.dq(B.h,$.eF/37,B.Q),r,r),A.c0(" | ",A.dq(B.h,35,B.bk),r,r),A.c0(A.a(s.d,"desig"),A.dq($.pg(),$.eF/37,B.Q),r,r),A.c0(" | ",A.dq(B.h,35,B.bk),r,r),A.c0(A.a(s.e,"instagram"),A.dq(B.h,$.eF/37,B.Q),r,r)],t.E),B.a9,s.f,B.b2)}}
+L(a,b){var s,r,q,p,o=this,n=null,m=A.a(o.c,"name"),l=$.eF
+m=A.c0(m,A.dq(B.h,l<1400?l/37:25,B.Q),n,n)
+l=A.c0(" | ",A.dq(B.h,35,B.bk),n,n)
+s=A.a(o.d,"desig")
+r=$.pg()
+q=$.eF
+s=A.c0(s,A.dq(r,q<1400?q/37:25,B.Q),n,n)
+r=A.c0(" | ",A.dq(B.h,35,B.bk),n,n)
+q=A.a(o.e,"instagram")
+p=$.eF
+return A.np(A.b([m,l,s,r,A.c0(q,A.dq(B.h,p<1400?p/37:25,B.Q),n,n)],t.E),B.a9,o.f,B.b2)}}
 A.Bh.prototype={
 L(a,b){var s,r,q,p,o=null,n="https://i.ibb.co/VTKm71y/Whats-App-Image-2022-01-25-at-10-07-09-PM.jpg",m=$.eF,l=A.dg(o,30,o),k=A.c0("UPCOMING EVENTS",A.mw(B.m,60,B.Q),o,o),j=A.dg(o,30,o),i=A.qr(new A.bH(B.bi,A.bf(o,A.zL(n,o),o,o,o,o,o,o),o),4),h=$.pg(),g=t.E
 h=A.bf(o,A.np(A.b([i,A.qr(new A.bH(B.bi,A.bf(o,new A.bH(B.dG,A.Ac(A.b([A.c0("Fun Team Ride",A.mw(B.h,30,B.aN),o,o),A.dg(o,10,o),A.c0("Venue: UU112\nDate:04/22/2022\nTime:4:00PM",A.mw(B.h,15,B.Q),o,o)],g),o,!1,B.V),o),h,o,o,o,o,o),o),6)],g),B.a9,B.R,B.b2),B.cw,o,300,o,o,800)
